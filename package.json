@@ -1,6 +1,6 @@
 {
-  "name": "lee-canvas-utils",
-  "version": "1.0.3",
+  "name": "@clownlee/canvas-utils",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
