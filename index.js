@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   evntWrapper: function(ev) {
     let { pageX, pageY, target } = ev;
     let { left, top } = target.getBoundingClientRect();
